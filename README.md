@@ -19,25 +19,13 @@ Sekarang aku juga mempelajari javascript terutama React dan aku sedang belajar u
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-**languages and tools:**  
+**bahasa yang aku gunakan:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-📊 **minggu ini aku menghabiskan waktu untuk belajar:**
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   6 hrs 17 mins   ████████████████████████▒  40.10 %
-Laravel      2 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░  30.90 %
-Other        2 hrs           ░░░░░░░░░░░░░░░░░░░░░░░░░  30.00 %
-```
-
-<!--END_SECTION:waka-->
-
 
 
 
