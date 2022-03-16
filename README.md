@@ -13,9 +13,9 @@
 <br />
 <br />
 
-hi, aku Yudistira Rivaldi, aku memiliki passion dibidang Fullstack Web Developer terutama menggunakan laravel, sekarang aku sedang kuliah di Universitas Islam Kalimantan Muhammad Arsyad Al-Banjari jurusan Teknik Informatika dan aku memiliki cita cita untuk menjadi seorang Fullstack Web Developer dan bisa membantu orang lain menggunakan cara aku sendiri lewat pemrograman.
+Hai, aku Yudistira Rivaldi aku memiliki passion dibidang Fullstack Web Developer terutama menggunakan laravel, sekarang aku sedang kuliah di Universitas Islam Kalimantan Muhammad Arsyad Al-Banjari jurusan Teknik Informatika, aku memiliki impian untuk bekerja sebagai Fullstack Web Developer, salah satu hal yang paling aku inginkan saat menjadi seorang expert Fullstack Web Developer adalah bisa membantu orang lain menggunakan cara aku sendiri lewat pemrograman.
 
-Sekarang aku juga mempelajari javascript terutama React dan aku sedang proses untuk membangun sebuah website menggunakan React JS.
+Sekarang aku juga mempelajari javascript terutama React dan aku sedang belajar untuk membangun sebuah website menggunakan React JS.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
@@ -31,9 +31,9 @@ Sekarang aku juga mempelajari javascript terutama React dan aku sedang proses un
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   6 hrs 17 mins   ████████████████████████▒  80.10 %
-Laravel      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░  10.90 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  10.00 %
+JavaScript   6 hrs 17 mins   ████████████████████████▒  40.10 %
+Laravel      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░  40.90 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  30.00 %
 ```
 
 <!--END_SECTION:waka-->
