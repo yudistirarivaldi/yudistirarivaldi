@@ -34,14 +34,14 @@ Sekarang aku juga mempelajari javascript terutama React dan aku sedang proses un
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   6 hrs 17 mins   ████████████████████████▒   80.10 %
-Laravel      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+JavaScript   6 hrs 17 mins   ████████████████████████▒  80.10 %
+Laravel      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░  10.90 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  10.00 %
 ```
 
 <!--END_SECTION:waka-->
 
-📈 my github stats
+
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
