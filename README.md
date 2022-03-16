@@ -20,11 +20,7 @@ hi, aku Yudistira Rivaldi, aku memiliki passion dibidang Fullstack Web Developer
 
 Sekarang aku juga mempelajari javascript terutama React dan aku sedang proses untuk membangun sebuah website menggunakan React JS.
 
-
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
 
@@ -34,18 +30,16 @@ Sekarang aku juga mempelajari javascript terutama React dan aku sedang proses un
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
+📊 **minggu ini aku menghabiskan waktu untuk belajar:**
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   6 hrs 17 mins   ████████████████████████▒   97.10 %
-TypeScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+JavaScript   6 hrs 17 mins   ████████████████████████▒   80.10 %
+Laravel      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
 ```
 
 <!--END_SECTION:waka-->
-
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 
