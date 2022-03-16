@@ -32,8 +32,8 @@ Sekarang aku juga mempelajari javascript terutama React dan aku sedang belajar u
 
 ```text
 JavaScript   6 hrs 17 mins   ████████████████████████▒  40.10 %
-Laravel      6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░  30.90 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░  20.00 %
+Laravel      2 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░  30.90 %
+Other        2 hrs           ░░░░░░░░░░░░░░░░░░░░░░░░░  30.00 %
 ```
 
 <!--END_SECTION:waka-->
